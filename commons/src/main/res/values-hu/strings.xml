@@ -328,7 +328,7 @@
     <string name="app_icon_color_warning">FIGYELMEZTETÉS: Néhány indító nem megfelelően kezeli az alkalmazásikon testreszabását. Ha az ikon eltűnik, próbálja meg elindítani az alkalmazást a Google Playen vagy egy modulon keresztül, ha elérhető. Miután elindult, állítsa vissza az alapértelmezett narancssárga (#F57C00) ikont. A legrosszabb esetben újra kellhet telepítenie az alkalmazást.</string>
     <string name="share_colors_success">A színek sikeresen frissültek. Hozzáadott egy új, „Közös” nevű témát, a jövőben ezt használja az összes alkalmazás színének frissítéséhez.</string>
     <string name="shared_theme_note">Bár a Pro alkalmazásverziót használja, műszaki okokból így is szükséges az Egyszerű köszönet alkalmazás telepítése, az gondoskodik ugyanis a színek szinkronizálásáról.</string>
-    <string name="purchase_thank_you">Kérjük, vásárolja meg az &lt;a href=https://play.google.com/store/apps/details\?id=com.simplemobiletools.thankyou&gt;Egyszerű köszönet&lt;/a&gt; alkalmazást a funkció feloldásához és a fejlesztés támogatásához. Köszönöm!</string>
+    <string name="purchase_thank_you">Kérjük, vásárolja meg az &lt;a href=https://play.google.com/store/apps/details\?id=com.ts.thankyou&gt;Egyszerű köszönet&lt;/a&gt; alkalmazást a funkció feloldásához és a fejlesztés támogatásához. Köszönöm!</string>
     <!-- Themes -->
     <string name="light_theme">Világos</string>
     <string name="dark_theme">Sötét</string>
@@ -835,9 +835,9 @@
     <string name="additional_info">Kiegészítő információ</string>
     <string name="app_version">Alkalmazásverzió: %s</string>
     <string name="device_os">Eszköz operációs rendszere: %s</string>
-    <string name="donate_please">Üdv,&lt;br&gt;&lt;br&gt; remélem tetszik az alkalmazás. Nem tartalmaz hirdetéseket. Kérjük támogassa a fejlesztést az &lt;a href=https://play.google.com/store/apps/details\?id=com.simplemobiletools.thankyou&gt;Egyszerű köszönet&lt;/a&gt; megvásárlásával. Utána ez a párbeszédablak sem jelenik meg újra.&lt;br&gt;&lt;br&gt; Köszönöm!</string>
-    <string name="donate_new">Üdv,&lt;br&gt;&lt;br&gt; remélem tetszik az alkalmazás. Nem tartalmaz hirdetéseket, és adatokat sem gyűjtünk. Kérjük támogassa a fejlesztést az &lt;a href=https://play.google.com/store/apps/details\?id=com.simplemobiletools.thankyou&gt;Egyszerű köszönet&lt;/a&gt; megvásárlásával. Utána feloldja az összes alkalmazásfunkciót, mint a színek testreszabása.&lt;br&gt;&lt;br&gt; Köszönöm!</string>
-    <string name="donate_short">Támogasson minket az &lt;a href=https://play.google.com/store/apps/details\?id=com.simplemobiletools.thankyou&gt;Egyszerű köszönet&lt;/a&gt; megvásárlásával. Ez feloldja az összes alkalmazásfunkciót, köztük a színek testreszabását is.</string>
+    <string name="donate_please">Üdv,&lt;br&gt;&lt;br&gt; remélem tetszik az alkalmazás. Nem tartalmaz hirdetéseket. Kérjük támogassa a fejlesztést az &lt;a href=https://play.google.com/store/apps/details\?id=com.ts.thankyou&gt;Egyszerű köszönet&lt;/a&gt; megvásárlásával. Utána ez a párbeszédablak sem jelenik meg újra.&lt;br&gt;&lt;br&gt; Köszönöm!</string>
+    <string name="donate_new">Üdv,&lt;br&gt;&lt;br&gt; remélem tetszik az alkalmazás. Nem tartalmaz hirdetéseket, és adatokat sem gyűjtünk. Kérjük támogassa a fejlesztést az &lt;a href=https://play.google.com/store/apps/details\?id=com.ts.thankyou&gt;Egyszerű köszönet&lt;/a&gt; megvásárlásával. Utána feloldja az összes alkalmazásfunkciót, mint a színek testreszabása.&lt;br&gt;&lt;br&gt; Köszönöm!</string>
+    <string name="donate_short">Támogasson minket az &lt;a href=https://play.google.com/store/apps/details\?id=com.ts.thankyou&gt;Egyszerű köszönet&lt;/a&gt; megvásárlásával. Ez feloldja az összes alkalmazásfunkciót, köztük a színek testreszabását is.</string>
     <string name="purchase">Vásárlás</string>
     <string name="get_simple_phone">Egyszerű telefon beszerzése</string>
     <string name="update_thank_you">Frissítse az Egyszerű köszönet alkalmazást a legújabb verzióra</string>
@@ -860,7 +860,7 @@
     <string name="thank_you">Köszönjük</string>
     <string name="widget_locked_pro">A modul zárolt.
 \nFrissítsen a Pro verzióra a feloldásához.</string>
-    <string name="features_locked">Ez a funkció zárolt, vásárolja meg az &lt;a href=https://play.google.com/store/apps/details\?id=com.simplemobiletools.thankyou&gt;Egyszerű köszönet&lt;/a&gt; alkalmazást a teljes alkalmazás feloldásához.&lt;br&gt;&lt;br&gt;Ez egy egyszeri fizetés, és ha nem lesz elégedett, akkor visszatérítjük az árát.</string>
+    <string name="features_locked">Ez a funkció zárolt, vásárolja meg az &lt;a href=https://play.google.com/store/apps/details\?id=com.ts.thankyou&gt;Egyszerű köszönet&lt;/a&gt; alkalmazást a teljes alkalmazás feloldásához.&lt;br&gt;&lt;br&gt;Ez egy egyszeri fizetés, és ha nem lesz elégedett, akkor visszatérítjük az árát.</string>
     <!-- New app (do not translate anything on the 4th line) -->
     <string name="new_app">Üdv!&lt;br&gt;&lt;br&gt;Csak tájékoztatni szeretnénk, hogy megjelent néhány új alkalmazás:&lt;br&gt;&lt;br&gt; &lt;a href=%1$s&gt;%2$s&lt;/a&gt;&lt;br&gt;&lt;br&gt; &lt;a href=%3$s&gt;%4$s&lt;/a&gt;&lt;br&gt;&lt;br&gt; &lt;a href=%5$s&gt;%6$s&lt;/a&gt;&lt;br&gt;&lt;br&gt; A címeikre vagy ikonjaikra kattintva töltheti le őket.&lt;br&gt;&lt;br&gt; Köszönjük!</string>
     <string name="simple_app_launcher">Egyszerű alkalmazásindító</string>
@@ -1070,7 +1070,7 @@
         <item quantity="other">A próbaverzió %d nap múlva lejár.</item>
     </plurals>
     <!-- Google Play listing -->
-    <string name="deprecated_app">ELAVULT: Az alkalmazás ezen verziója már nem fog frissülni, töltse le a Pro verziót a https://play.google.com/store/apps/details\?id=com.simplemobiletools.xxx.pro címről</string>
+    <string name="deprecated_app">ELAVULT: Az alkalmazás ezen verziója már nem fog frissülni, töltse le a Pro verziót a https://play.google.com/store/apps/details\?id=com.ts.xxx.pro címről</string>
     <string name="pro_app_refund">Ne felejtse el, hogy ha 2 órán belül eltávolítja a fizetős alkalmazásunkat, akkor automatikusan visszatérítjük az árát. Ha később bármikor mégis visszatérítést szeretne, lépjen kapcsolatba velünk a hello@simplemobiletools.com címen, és visszakapja. Ez is megkönnyíti a kipróbálást :)</string>
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">Egyszerű, nyílt forráskódú androidos alkalmazásgyűjtemény testreszabható modulokkal, hirdetések és felesleges engedélykérések nélkül.</string>

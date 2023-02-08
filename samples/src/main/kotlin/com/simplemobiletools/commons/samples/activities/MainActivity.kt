@@ -1,13 +1,13 @@
-package com.simplemobiletools.commons.samples.activities
+package com.ts.commons.samples.activities
 
 import android.os.Bundle
-import com.simplemobiletools.commons.activities.BaseSimpleActivity
-import com.simplemobiletools.commons.dialogs.BottomSheetChooserDialog
-import com.simplemobiletools.commons.extensions.appLaunched
-import com.simplemobiletools.commons.extensions.toast
-import com.simplemobiletools.commons.models.SimpleListItem
-import com.simplemobiletools.commons.samples.BuildConfig
-import com.simplemobiletools.commons.samples.R
+import com.ts.commons.activities.BaseSimpleActivity
+import com.ts.commons.dialogs.BottomSheetChooserDialog
+import com.ts.commons.extensions.appLaunched
+import com.ts.commons.extensions.toast
+import com.ts.commons.models.SimpleListItem
+import com.ts.commons.samples.BuildConfig
+import com.ts.commons.samples.R
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : BaseSimpleActivity() {

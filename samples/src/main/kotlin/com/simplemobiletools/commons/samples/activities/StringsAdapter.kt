@@ -1,4 +1,4 @@
-package com.simplemobiletools.commons.samples.activities
+package com.ts.commons.samples.activities
 
 import android.view.Menu
 import android.view.MotionEvent
@@ -7,14 +7,14 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.ItemTouchHelper
 import androidx.recyclerview.widget.RecyclerView
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout
-import com.simplemobiletools.commons.activities.BaseSimpleActivity
-import com.simplemobiletools.commons.adapters.MyRecyclerViewAdapter
-import com.simplemobiletools.commons.extensions.beVisibleIf
-import com.simplemobiletools.commons.interfaces.ItemMoveCallback
-import com.simplemobiletools.commons.interfaces.ItemTouchHelperContract
-import com.simplemobiletools.commons.interfaces.StartReorderDragListener
-import com.simplemobiletools.commons.samples.R
-import com.simplemobiletools.commons.views.MyRecyclerView
+import com.ts.commons.activities.BaseSimpleActivity
+import com.ts.commons.adapters.MyRecyclerViewAdapter
+import com.ts.commons.extensions.beVisibleIf
+import com.ts.commons.interfaces.ItemMoveCallback
+import com.ts.commons.interfaces.ItemTouchHelperContract
+import com.ts.commons.interfaces.StartReorderDragListener
+import com.ts.commons.samples.R
+import com.ts.commons.views.MyRecyclerView
 import kotlinx.android.synthetic.main.list_item.view.*
 import java.util.*
 

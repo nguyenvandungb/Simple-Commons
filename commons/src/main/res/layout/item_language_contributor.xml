@@ -18,7 +18,7 @@
         app:layout_constraintTop_toTopOf="parent"
         tools:src="@drawable/ic_flag_arabic_vector" />
 
-    <com.simplemobiletools.commons.views.MyTextView
+    <com.ts.commons.views.MyTextView
         android:id="@+id/language_label"
         style="@style/MaterialListTextStyle"
         android:layout_width="0dp"
@@ -30,7 +30,7 @@
         app:layout_constraintTop_toTopOf="@+id/language_icon"
         tools:text="@string/translation_arabic" />
 
-    <com.simplemobiletools.commons.views.MyTextView
+    <com.ts.commons.views.MyTextView
         android:id="@+id/language_contributors"
         style="@style/MaterialListTextStyle"
         android:layout_width="match_parent"

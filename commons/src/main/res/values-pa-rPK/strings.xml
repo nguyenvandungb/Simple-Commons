@@ -328,7 +328,7 @@
     <string name="app_icon_color_warning">WARNING: Some launchers do not handle app icon customization properly. In case the icon will disappear, try launching the app via Google Play or some widget, if available. Once launched, just set back the default orange icon #F57C00. You might have to reinstall the app in the worst case.</string>
     <string name="share_colors_success">Colors updated successfully. A new Theme called \'Shared\' has been added, please use that for updating all app colors in the future.</string>
     <string name="shared_theme_note">Note that even though you are using the Pro app version, you still need Simple Thank You for technical reasons. It takes care of the color synchronization.</string>
-    <string name="purchase_thank_you">Please purchase &lt;a href=https://play.google.com/store/apps/details\?id=com.simplemobiletools.thankyou&gt;Simple Thank You&lt;/a&gt; to unlock this function and support the development. Thanks!</string>
+    <string name="purchase_thank_you">Please purchase &lt;a href=https://play.google.com/store/apps/details\?id=com.ts.thankyou&gt;Simple Thank You&lt;/a&gt; to unlock this function and support the development. Thanks!</string>
     <!-- Themes -->
     <string name="light_theme">روشنی</string>
     <string name="dark_theme">ہنیر</string>
@@ -806,9 +806,9 @@
     <string name="additional_info">ہور جاݨکاری</string>
     <string name="app_version">‫اَیپ ورژن:؜ ‏%s‬؜</string>
     <string name="device_os">‫ڈیوائیس اوپریٹنگ سِسٹم:؜ ‏%s‬؜</string>
-    <string name="donate_please">Hello,&lt;br&gt;&lt;br&gt; hope you are enjoying the app. It contains no ads, please support its development by purchasing the &lt;a href=https://play.google.com/store/apps/details\?id=com.simplemobiletools.thankyou&gt;Simple Thank You&lt;/a&gt; app, it will also prevent this dialog from showing up again.&lt;br&gt;&lt;br&gt; Thank you!</string>
-    <string name="donate_new">Hello,&lt;br&gt;&lt;br&gt;hope you are enjoying the app. It contains no ads and we aren\'t collecting your data either, please support its development by purchasing &lt;a href=https://play.google.com/store/apps/details\?id=com.simplemobiletools.thankyou&gt;Simple Thank You&lt;/a&gt;. You will also have all app features including color customization unlocked.&lt;br&gt;&lt;br&gt;Thank you!</string>
-    <string name="donate_short">Support us by purchasing &lt;a href=https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou&gt;Simple Thank You&lt;/a&gt; please, it will also unlock all app features including color customization.</string>
+    <string name="donate_please">Hello,&lt;br&gt;&lt;br&gt; hope you are enjoying the app. It contains no ads, please support its development by purchasing the &lt;a href=https://play.google.com/store/apps/details\?id=com.ts.thankyou&gt;Simple Thank You&lt;/a&gt; app, it will also prevent this dialog from showing up again.&lt;br&gt;&lt;br&gt; Thank you!</string>
+    <string name="donate_new">Hello,&lt;br&gt;&lt;br&gt;hope you are enjoying the app. It contains no ads and we aren\'t collecting your data either, please support its development by purchasing &lt;a href=https://play.google.com/store/apps/details\?id=com.ts.thankyou&gt;Simple Thank You&lt;/a&gt;. You will also have all app features including color customization unlocked.&lt;br&gt;&lt;br&gt;Thank you!</string>
+    <string name="donate_short">Support us by purchasing &lt;a href=https://play.google.com/store/apps/details?id=com.ts.thankyou&gt;Simple Thank You&lt;/a&gt; please, it will also unlock all app features including color customization.</string>
     <string name="purchase">کھریدیو</string>
     <string name="get_simple_phone">سادی فون ویچی جا رہا اے</string>
     <string name="update_thank_you">Please update Simple Thank You to the latest version</string>
@@ -830,7 +830,7 @@
     <string name="rate_our_app">جے پسند اے، آپݨے من دی گل کریو</string>
     <string name="thank_you">مہربانی</string>
     <string name="widget_locked_pro">The widget is locked.\nPlease upgrade to the Pro version to unlock it.</string>
-    <string name="features_locked">This feature is locked, please purchase &lt;a href=https://play.google.com/store/apps/details\?id=com.simplemobiletools.thankyou&gt;Simple Thank You&lt;/a&gt; for unlocking the full app.&lt;br&gt;&lt;br&gt;It is a one time payment only and if you won\'t be satisfied, we can refund you.</string>
+    <string name="features_locked">This feature is locked, please purchase &lt;a href=https://play.google.com/store/apps/details\?id=com.ts.thankyou&gt;Simple Thank You&lt;/a&gt; for unlocking the full app.&lt;br&gt;&lt;br&gt;It is a one time payment only and if you won\'t be satisfied, we can refund you.</string>
     <string name="new_app">Hey,&lt;br&gt;&lt;br&gt; just letting you know that some new apps have been released recently:&lt;br&gt;&lt;br&gt; &lt;a href=%1$s&gt;%2$s&lt;/a&gt;&lt;br&gt;&lt;br&gt; &lt;a href=%3$s&gt;%4$s&lt;/a&gt;&lt;br&gt;&lt;br&gt; &lt;a href=%5$s&gt;%6$s&lt;/a&gt;&lt;br&gt;&lt;br&gt; You can download them by pressing their titles or icons.&lt;br&gt;&lt;br&gt; Thanks</string>
     <string name="simple_app_launcher">سادہ ایپلیکیشن شروع کرتا</string>
     <string name="simple_calculator">سادہ کیلکولیٹر</string>
@@ -1032,7 +1032,7 @@
         <item quantity="other">Your trial expires in %d days.</item>
     </plurals>
     <!-- Google Play listing -->
-    <string name="deprecated_app">DEPRECATED: This version of the app is no longer maintained, get the Pro version at https://play.google.com/store/apps/details\?id=com.simplemobiletools.xxx.pro</string>
+    <string name="deprecated_app">DEPRECATED: This version of the app is no longer maintained, get the Pro version at https://play.google.com/store/apps/details\?id=com.ts.xxx.pro</string>
     <string name="pro_app_refund">Don\'t forget that if you uninstall any paid app within 2 hours, you will automatically be refunded. If you want a refund anytime later, just contact us at hello@simplemobiletools.com and you will get it. That makes it easy to try it out :)</string>
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">A group of simple, open source Android apps with customizable widgets, without ads and unnecessary permissions.</string>

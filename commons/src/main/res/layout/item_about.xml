@@ -20,7 +20,7 @@
         app:layout_constraintTop_toTopOf="parent"
         tools:src="@drawable/ic_question_mark_vector" />
 
-    <com.simplemobiletools.commons.views.MyTextView
+    <com.ts.commons.views.MyTextView
         android:id="@+id/about_item_label"
         android:layout_width="0dp"
         android:layout_height="match_parent"
